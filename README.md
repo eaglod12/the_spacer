@@ -15,6 +15,9 @@ git config --global user.name "Votre Nom"
 
 8-  git push --set-upstream url-github-repository master
 
+#console
+1- composer require server
+2- ./bin/console server:run
 
 #SSH 
 Générer une nouvelle clé SSH
